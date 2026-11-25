@@ -1,4 +1,13 @@
 {
+  "name": "api-usuarios-express",
+  "version": "1.0.0",
+  "description": "API REST com Express que lista e consulta usuários a partir de um arquivo JSON",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Jorge Gabriel",
+  "license": "MIT",
   "dependencies": {
     "express": "^5.3.0"
   }
